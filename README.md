@@ -1,6 +1,6 @@
 # Flutter-TinderRPG
 
-# Projeto utilizando flutter e firebase para criação de um tinder inspirado em elementos de rpg
+Projeto utilizando Flutter e Firebase para criação de um tinder inspirado em elementos de RPG
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/919779048849293383/929470013541343242/unknown.png" width="175" title="hover text">
